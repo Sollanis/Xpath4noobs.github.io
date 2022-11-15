@@ -14,4 +14,4 @@ Fonte: https://developer.mozilla.org/pt-BR/docs/Web/API/Document_Object_Model
 	
 	• Ele fornece exibe o código fonte de uma página como um grupo estruturado de nós e objetos, possuindo várias propriedades e métodos. 
 	
-Conseguimos acessar o DOM pelo teclado F12 ou selecionando um elemento na pág web, clicando com o botão direito e selecionando “Inspecionar”![image](https://user-images.githubusercontent.com/86085900/201826891-c9a898a4-d1b0-4f59-8b33-d49b7007f33c.png)
+Conseguimos acessar o DOM pelo teclado F12 ou selecionando um elemento na pág web, clicando com o botão direito e selecionando “Inspecionar”!
